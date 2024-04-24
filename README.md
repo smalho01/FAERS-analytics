@@ -61,4 +61,51 @@ The below links represent our interactive Tableau  dashboards.
 
 # **Challenges**
 
+## 7.1. Python Challneges 
+
+### 7.1.1 Data cleaning
+
+
+* Handling missing or inconsistent data during cleaning.
+
+* Standardized dates by converting various time units into a uniform format.
+
+
+### 7.1.2. Data merging
+
+
+
+* Combining multiple datasets efficiently 
+* Established a data standardization protocol to ensure compatibility before merging.
+
+
+
+### 7.1.3. Version Control
+
+
+* Managing code changes and collaborating with others using version control
+* Eventually, did it manually by sharing individual files and merging them
+
+
+
+## 7.2. Tableau Challenges 
+
+
+### 7.2.1 Unioning the Data
+
+
+* Combining multiple data sources into a single view
+* Utilized Tableau's drag-and-drop functionality to create unions easily.
+
+
+
+### 7.2.2 Publishing Dashboard 
+
+
+* Sharing interactive dashboard on tableau cloud and embedding it in colab notebook
+* Extracted data sources to enable Tableau Public option for publishing and sharing.
+
+
 # **Conclusion**
+
+
