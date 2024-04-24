@@ -59,6 +59,10 @@ The below links represent our interactive Tableau  dashboards.
 
 [Analytics File](Team1_FAERS_Analytics.ipynb)
 
+# **Presentation Slides**
+
+[Slide Deck Link](https://docs.google.com/presentation/d/12sXMzZ1RhFwoeWaev89qMOyoCl4ieP63V-C_T79Cqks/edit?usp=sharing)
+
 # **Challenges**
 
 ## 7.1. Python Challneges 
@@ -108,4 +112,16 @@ The below links represent our interactive Tableau  dashboards.
 
 # **Conclusion**
 
+The comprehensive analysis of the FDA Adverse Event Reporting System (FAERS) for the latter half of 2023 provided several key insights into adverse healthcare events:
+
+1. **Common Adverse Reactions:** The analysis identified prevalent adverse reactions such as dependence, drug ineffectiveness, off-label use, death, and overdose. These highlight critical areas for healthcare providers and patients to exercise caution.
+
+2. **Influence of Reporting Sources:** Data revealed a significant impact of reporting sources on the outcomes, with reports from consumers and health professionals often resulting in hospitalizations. This emphasizes the importance of these reports in detecting potential risks associated with drug use.
+
+3. **Correlation between Therapy Duration and Adverse Reactions:** The findings suggested a strong correlation between therapy durations and the frequency of adverse reactions, especially notable within the first two days of therapy. This indicates the need for vigilant monitoring during the initial treatment period.
+
+4. **Demographic and Geographic Insights:** Insights into the quarterly variations in patient age and geographic distribution of reports can inform targeted interventions and awareness programs. There was a noticeable variation in the demographics most affected by adverse drug events, which can help tailor healthcare approaches.
+
+5. **Implications for Healthcare:** The study underscores the necessity for enhanced monitoring and post-marketing surveillance by healthcare professionals. Education and communication between healthcare providers and patients about the potential risks of drug therapies are crucial.
+Significance of FAERS Data: This analysis highlights the importance of FAERS data in improving drug safety monitoring and healthcare delivery, helping healthcare stakeholders better understand the risks associated with drug therapies and thus improving patient safety and care outcomes.
 
